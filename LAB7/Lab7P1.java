@@ -1,4 +1,4 @@
-import java.awt.event.*;
+LABimport java.awt.event.*;
 import java.awt.*;
 class Lab7P1{
       public static void main(String...args){
